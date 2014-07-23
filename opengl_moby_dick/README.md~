@@ -1,0 +1,9 @@
+This is my combined 2nd, and 3rd project for my Intro to Computer Graphics
+class. It requred 4 weeks of work total, but all of the models and animations
+were completed in the first 2 weeks. It was created with OpenGL and C++.
+
+To run the project, you'll need Visual Studio:
+   - http://www.visualstudio.com/en-us/products/visual-studio-express-vs.aspx
+and then following these instructions to install glut, it's for VS2010, but
+should be similar for 2013:
+   - http://visualambition.wordpress.com/2010/08/12/glut-and-visual-studio-2010/
